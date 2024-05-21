@@ -1,0 +1,22 @@
+Header {
+    background-color: #a6261b;
+    padding: 20px;
+  }
+  
+  nav {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .HeadH1 {
+    font-size: 40px;
+  }
+  
+  .logoReact {
+    width: 80px;
+    height: auto;
+    margin-right: 30px;
+  }
+  
