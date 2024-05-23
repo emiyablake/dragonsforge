@@ -3,7 +3,8 @@ Footer {
     padding: 15px;
 }
 
-ul {
+.footerList {
     list-style: none;
+    text-align: center;
     color: white;
 }

@@ -12,3 +12,9 @@
   font-size: 20px;
   color: var(--black);
 }
+
+button {
+  padding: 5px;
+  margin: 10px;
+  
+}

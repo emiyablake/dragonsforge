@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
     return (
         <footer>
-            <ul>
+            <ul className="footerList">
                 <li><a>Mara Júlia Ávila</a></li>
                 <li><a>Gabriel Ratão</a></li>
             </ul>

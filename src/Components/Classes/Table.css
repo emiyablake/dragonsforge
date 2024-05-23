@@ -1,0 +1,39 @@
+
+.containerTable {
+    display: flex;
+    flex-direction: column;
+}
+
+.nameclass {
+    text-align: center;
+}
+
+table {
+    border: 1px solid var(--black);
+    background-color: var(--black);
+    padding: 5px;
+}
+
+th {
+    border: 1px solid var(--black);
+    background-color: var(--blue);
+    padding: 10px;
+    font-size: 18px;
+    text-align: left;
+}
+
+td {
+    border:  1px solid var(--black);
+    background-color: var(--blue);
+    padding: 10px;
+    font-size: 16px;
+    color: var(--black);
+    text-align: left;
+}
+
+ul {
+    color: var(--black);
+    list-style: none;
+    text-align: left;
+}
+
